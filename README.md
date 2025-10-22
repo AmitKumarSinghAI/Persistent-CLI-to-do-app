@@ -78,5 +78,4 @@ Choose an option: 1
 🪟 Your tasks:
 1. Submit internship task
 
-
 ---
